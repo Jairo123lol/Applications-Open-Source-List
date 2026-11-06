@@ -43,10 +43,6 @@ Open-source applications for Developers - Beginners.
 **Aplications**
 
 
-**New Suite**
-
-- [ArtCraft Suite](https://getartcraft.com/apps) *(🪟 - 🍎 - 🐧 - 🌐)*
-
 ## Paint
 
 - [MyPaint](https://www.mypaint.app/en/) *(🪟 - 🍎 - 🐧)*
