@@ -105,7 +105,6 @@ Open-source applications for Developers - Beginners.
 - [Schist](https://schist.app/) *(🪟 - 🍎 - 🐧 - 🌐)*
 - [ItsPaint](https://itspaintmac.com/) *(🍎)*
 - [Pikado](https://pikado.koneb.me/) *(🌐)*
-- [PhotoSuite](https://github.com/eolix/photosuite) *(🪟 - 🍎 - 🐧)*
 
 ### RAW
 
