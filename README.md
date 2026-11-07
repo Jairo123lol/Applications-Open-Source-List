@@ -1,7 +1,7 @@
 # Applications-Open-Source-List
 A list of all open-source software
 
-> Here are lists of open-source applications for users. Feel free to explore and choose the applications that suit you!
+> Here are lists of open-source applications for all users. Feel free to explore and choose the applications that suit you!
 
 > Inspiration
 > 
