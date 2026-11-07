@@ -64,6 +64,7 @@ Open-source applications for Developers - Beginners.
 - [Graphite](https://graphite.art/) *(🌐)*
 - [Inkscape](https://inkscape.app/) *(🪟 - 🍎 - 🐧)*
 - [sK1](https://github.com/sk1-project/sk1-wx) *(🪟 - 🍎 - 🐧)*
+- [TraceDraw](https://tracedraw.github.io/tracedraw/) *(🌐)*
 
   ### Live Trace
 
@@ -86,6 +87,7 @@ Open-source applications for Developers - Beginners.
 - [Besprited](https://github.com/veritaware/Besprited) *(🪟 - 🍎 - 🐧)*
 - [Pix8](https://github.com/DynartInteractive/Pix8) *(🪟 - 🌐)*
 - [RetroSprite](https://github.com/Theodor908/RetroSprite) *(🪟)*
+- [OxyPixel](https://github.com/crisprintsstuff/oxypixel) *(🪟 - 🍎 - 🐧)*
 
 
 
@@ -134,6 +136,7 @@ Open-source applications for Developers - Beginners.
 - [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) *(🪟 - 🍎 - 🐧)*
 - [AnimeEffects](https://animeeffectsdevs.github.io/) *(🪟 - 🍎 - 🐧)*
 - [LibreToons](https://github.com/alvillafm/LibreToon) *(🪟 - 🍎 - 🐧)*
+- [Next2D](https://next2d.app/en/) *(🌐)*
 
 
   ### Honorable Mention
@@ -167,6 +170,7 @@ Open-source applications for Developers - Beginners.
 - [amber](https://github.com/baptisterajaut/amber) *(🪟 - 🍎)*
 - [Velorn](https://velorn.ai/) *(🪟)*
 - [VirtualDub](https://www.virtualdub.org/) *(🪟)*
+- [ConCat](https://concatenate.pages.dev/) *(🪟 - 🍎 - 🐧)*
 
 ### Horonable Mention
 
