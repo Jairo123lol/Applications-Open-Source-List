@@ -97,7 +97,7 @@ Open-source applications for Developers - Beginners.
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) *(🪟 - 🍎 - 🐧)*
 - [PaintFE](https://apps.microsoft.com/detail/9p51wxfxgd54?hl=nb-NO&gl=NO) *(🪟 - 🍎 - 🐧)*
 - [Pixelitor](https://pixelitor.sourceforge.io/) *(🪟 - 🍎 - 🐧)*
-- [PhotoDemon](https://photodemon.org/) *(Windows)*
+- [PhotoDemon](https://photodemon.org/) *(🪟)*
 - [Patchy](https://github.com/SethRobinson/Patchy) *(🪟 - 🍎 - 🐧 - 🌐)*
 - [Sable](https://github.com/Drommedhar/sable) *(🪟 - 🍎)*
 - [Schist](https://schist.app/) *(🪟 - 🍎 - 🐧 - 🌐)*
