@@ -102,6 +102,7 @@ Open-source applications for Developers - Beginners.
 - [ItsPaint](https://itspaintmac.com/) *(🍎)*
 - [Pikado](https://pikado.koneb.me/) *(🌐)*
 - [PhotoSplise](https://photosplice.com/) *(🪟 - 🍎 - 🐧)*
+- [PeerBrush](https://peerbrush.com/) *(🪟 - 🍎 - 🐧)*
 
 ### RAW
 
@@ -114,6 +115,7 @@ Open-source applications for Developers - Beginners.
 - [digiKam](https://www.digikam.org/) *(🪟 - 🍎 - 🐧)*
 - [LightTable](https://lighttable.app/) *(🪟 - 🍎 - 🐧)*
 - [RapidRAW](https://www.getrapidraw.com/) *(🪟 - 🍎 - 🐧)*
+- [LightFrames](https://www.lightframes.si/) *(🌐)*
 
 
 
@@ -300,6 +302,7 @@ Open-source applications for Developers - Beginners.
 
 ## InDesign
 
+- [Paged.media](https://paged.media/) *()*
 - [DesignCraft](https://getartcraft.com/apps) *(🪟 - 🍎 - 🐧)*
 - [Scribus](https://www.scribus.net/) *(🪟 - 🍎 - 🐧)*
 - [Laidout](https://laidout.org/) *(🐧)*
