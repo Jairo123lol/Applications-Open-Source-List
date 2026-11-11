@@ -51,7 +51,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ## 📚 Applications
 
-## 🎨 Paint
+## Paint
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -68,7 +68,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## ✒️ Vector Design
+## Vector Design
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -88,7 +88,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🟪 Pixel Art
+## Pixel Art
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -107,7 +107,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 📷 Photography
+## Photography
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -141,7 +141,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🎞️ Animation
+## Animation
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -169,7 +169,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🎬 Video Editor
+## Video Editor
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -206,7 +206,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## ✨ Motion Graphics
+## Motion Graphics
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -233,7 +233,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 📦 Media Encoder
+## Media Encoder
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -245,7 +245,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🧊 3D Modeling
+## 3D Modeling
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -267,7 +267,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🕺 Mixamo
+## Mixamo
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -276,7 +276,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🎧 Audition
+## Audition
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -311,7 +311,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🧭 Experience Design
+## Experience Design
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -325,7 +325,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 🧪 Substance
+## Substance
 
 _No applications listed in this subsection._
 
@@ -366,7 +366,7 @@ _No applications listed in this subsection._
 
 ---
 
-## 📐 InDesign
+## InDesign
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -377,7 +377,7 @@ _No applications listed in this subsection._
 
 ---
 
-## 💻 DreamWeaver
+## DreamWeaver
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -390,7 +390,7 @@ _No applications listed in this subsection._
 
 ---
 
-## 📄 Office Suite
+## Office Suite
 
 | Application | Platforms / Notes |
 |:--|:--|
