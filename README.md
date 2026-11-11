@@ -36,7 +36,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ## 🧭 Contents
 
-| Category | Category |
+| Category | Category | Category |
 |:--|:--|
 | 🎨 [Paint](#paint) | ✒️ [Vector Design](#vector-design) | 🦴 [Rigging 2D](#rigging) |
 | 🟪 [Pixel Art](#pixel-art) | 📷 [Photography](#photography) |
