@@ -172,6 +172,7 @@ This repository is a categorized directory of applications covering a wide range
 ## 2D Rigging
 
 | Aplication | Platform / Note |
+|:--|:--|
 | [Rigby2D](https://rigby2d.com/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [FBones](https://github.com/Malasuerte94/FBones) | 🪟 · 🍎 · 🐧 |
 | [SkelForm](https://skelform.org/) | 🪟 · 🍎 · 🐧 · 🌐 |
