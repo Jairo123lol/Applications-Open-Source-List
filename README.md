@@ -38,7 +38,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Category | Category |
 |:--|:--|
-| 🎨 [Paint](#paint) | ✒️ [Vector Design](#vector-design) |
+| 🎨 [Paint](#paint) | ✒️ [Vector Design](#vector-design) | 🦴 [Rigging 2D](#rigging) |
 | 🟪 [Pixel Art](#pixel-art) | 📷 [Photography](#photography) |
 | 🎞️ [Animation](#animation) | 🎬 [Video Editor](#video-editor) |
 | ✨ [Motion Graphics](#motion-graphics) | 📦 [Media Encoder](#media-encoder) |
@@ -169,7 +169,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 2D Rigging
+## Rigging 2D
 
 | Aplication | Platform / Note |
 |:--|:--|
