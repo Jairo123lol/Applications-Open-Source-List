@@ -21,7 +21,7 @@ This repository is a categorized directory of applications covering a wide range
 >
 > This project was inspired by [KenneyNL's Adobe Alternatives](https://github.com/KenneyNL/Adobe-Alternatives), which helped establish the idea of organizing software alternatives by category. This directory expands on that concept with a broader collection of applications across creative, productivity, multimedia, development, and other fields.
 >
-> Thanks to KenneyNL and the contributors of Adobe Alternatives for the inspiration.
+> Thanks to KenneyNL and the contributors of Adobe Alternatives for the inspiration. (Really, i really like it about KenneyNL's Adobe-Alternatives so much :D)
 
 <p align="right">Collected by <a href="https://github.com/Jairo123lol">zJairo</a></p>
 
