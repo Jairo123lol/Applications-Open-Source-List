@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Applications Open Source
+# 🌐 Applications Open Source List
 
 **Discover software for creative work, multimedia, design, development, and productivity.**
 
