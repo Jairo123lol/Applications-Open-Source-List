@@ -232,7 +232,7 @@ This repository is a categorized directory of applications covering a wide range
 | [Premation](https://www.premation.com/?ref=producthunt) | 🪟 · 🍎 |
 | [Morphable](https://www.morphable.video/) | 🪟 · 🍎 · 🐧 |
 | [Beutl](https://beutl.beditor.net/#features-audio) | 🪟 · 🍎 · 🐧 |
-| [Limut](https://lumitlab.com) | 🪟 · 🍎 · 🐧 |
+| [Limut](https://lumitlab.com) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Rash](https://ruvnet.github.io/Rash/) | 🌐 |
 
 ### Composting & Effects
