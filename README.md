@@ -158,7 +158,6 @@ This repository is a categorized directory of applications covering a wide range
 | [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) | 🪟 · 🍎 · 🐧 |
 | [AnimeEffects](https://animeeffectsdevs.github.io/) | 🪟 · 🍎 · 🐧 |
 | [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
-| [Next2D](https://next2d.app/en/) | 🌐 |
 | [OpenToon](https://opentoon.org/) | 🍎 · 🐧 |
 
 ### Honorable Mention
