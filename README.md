@@ -201,7 +201,7 @@ This repository is a categorized directory of applications covering a wide range
 | [Nugget](https://nugget.framer.website/) | 🍎 |
 | [OpenChatCut](https://github.com/0xsline/OpenChatCut) | 🪟 · 🍎 · 🐧 |
 | [FreeCut](https://www.freecut.net/) | 🌐 |
-| [Diffusion](https://app.diffusion.studio/) | 🍎 · 🌐 |
+| [Diffusion](https://app.diffusion.studio/) | 🪟 · 🍎 · 🌐 |
 | [Sprocket](https://sprocketvideo.org/) | 🪟 · 🍎 · 🐧 |
 | [WeftCut](https://github.com/WeftCut/WeftCut) | 🪟 · 🍎 · 🐧 |
 | [amber](https://github.com/baptisterajaut/amber) | 🪟 · 🍎 |
