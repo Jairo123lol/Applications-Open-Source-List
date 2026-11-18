@@ -159,6 +159,7 @@ This repository is a categorized directory of applications covering a wide range
 | [AnimeEffects](https://animeeffectsdevs.github.io/) | 🪟 · 🍎 · 🐧 |
 | [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
 | [OpenToon](https://opentoon.org/) | 🍎 · 🐧 |
+| [Fanimate](https://github.com/toonittmedia/fanimate/) | 🪟 · 🍎 · 🐧 · 🌐 |
 
 ### Honorable Mention
 
