@@ -384,7 +384,7 @@ _No applications listed in this subsection._
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [Paged.media](https://paged.media/) | Not specified in the source list |
+| [Paged.media](https://paged.media/) | 🌐 |
 | [DesignCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
 | [Scribus](https://www.scribus.net/) | 🪟 · 🍎 · 🐧 |
 | [Laidout](https://laidout.org/) | 🐧 |
