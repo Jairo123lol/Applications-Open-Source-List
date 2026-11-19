@@ -145,6 +145,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
+| [AniCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
 | [StykAnimate](https://stykanimate.com/) | 🪟 · 🐧 · 🌐 |
 | [Flare](https://flare-animate.github.io/Flare/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [OpenToonz](https://opentoonz.github.io/es/index.html) | 🪟 · 🍎 · 🐧 |
