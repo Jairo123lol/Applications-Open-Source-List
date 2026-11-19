@@ -42,9 +42,9 @@ This repository is a categorized directory of applications covering a wide range
 | 🟪 [Pixel Art](#pixel-art) | 📷 [Photography](#photography) |
 | 🎞️ [Animation](#animation) | 🎬 [Video Editor](#video-editor) |
 | ✨ [Motion Graphics](#motion-graphics) | 📦 [Media Encoder](#media-encoder) |
-| 🧊 [3D Modeling](#3d-modeling) | 🕺 [Mixamo](#mixamo) |
+| 🧊 [3D Modeling](#3d-modeling) | 🕺 [3D Character Animation](#3d-character-animation) |
 | 🎧 [Audition](#audition) | 🧭 [Experience Design](#experience-design) |
-| 🧪 [Substance](#substance) | 📐 [DTP](#stp) |
+| 🧪 [3D Design & Visualization](#3d-design-&-visualization) | 📐 [DTP](#stp) |
 | 💻 [Web Design Software](#web-design-software) | 📄 [Office Suite](#office-suite) |
 
 ---
@@ -280,7 +280,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## Mixamo
+## 3D Character Animation
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -339,7 +339,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## Substance
+## 3D Design & Visualization
 
 _No applications listed in this subsection._
 
