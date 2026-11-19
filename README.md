@@ -44,8 +44,8 @@ This repository is a categorized directory of applications covering a wide range
 | ✨ [Motion Graphics](#motion-graphics) | 📦 [Media Encoder](#media-encoder) |
 | 🧊 [3D Modeling](#3d-modeling) | 🕺 [Mixamo](#mixamo) |
 | 🎧 [Audition](#audition) | 🧭 [Experience Design](#experience-design) |
-| 🧪 [Substance](#substance) | 📐 [InDesign](#indesign) |
-| 💻 [DreamWeaver](#dreamweaver) | 📄 [Office Suite](#office-suite) |
+| 🧪 [Substance](#substance) | 📐 [DTP](#stp) |
+| 💻 [Web Design Software](#web-design-software) | 📄 [Office Suite](#office-suite) |
 
 ---
 
@@ -380,7 +380,7 @@ _No applications listed in this subsection._
 
 ---
 
-## InDesign
+## DTP
 
 | Application | Platforms / Notes |
 |:--|:--|
@@ -391,7 +391,7 @@ _No applications listed in this subsection._
 
 ---
 
-## DreamWeaver
+## Web Design Software
 
 | Application | Platforms / Notes |
 |:--|:--|
