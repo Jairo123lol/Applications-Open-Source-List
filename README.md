@@ -321,6 +321,7 @@ This repository is a categorized directory of applications covering a wide range
 | [Nota](https://github.com/nota-daw/nota) | 🪟 · 🐧 |
 | [Qtractor](https://www.qtractor.org/qtractor-downloads.html) | 🐧 |
 | [OpenStudio](https://github.com/sdevil7th/OpenStudio) | 🪟 · 🍎 · 🐧 |
+| [ML Studio](https://michaellanemusic.de/ml-studio/) | 🪟 · 🍎 · 🐧 |
 
 ---
 
