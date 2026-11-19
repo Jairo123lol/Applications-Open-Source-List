@@ -380,7 +380,7 @@ _No applications listed in this subsection._
 
 ---
 
-## DTP (Desktop Publishing)
+## DTP
 
 | Application | Platforms / Notes |
 |:--|:--|
