@@ -44,7 +44,7 @@ This repository is a categorized directory of applications covering a wide range
 | ✨ [Motion Graphics](#motion-graphics) | 📦 [Media Encoder](#media-encoder) |
 | 🧊 [3D Modeling](#3d-modeling) | 🕺 [3D Character Animation](#3d-character-animation) |
 | 🎧 [Audition](#audition) | 🧭 [Experience Design](#experience-design) |
-| 🧪 [3D Design & Visualization](#3d-design-visualization) | 📐 [DTP](#stp) |
+| 🧪 [3D Graphics](#3d-graphics) | 📐 [DTP](#stp) |
 | 💻 [Web Design Software](#web-design-software) | 📄 [Office Suite](#office-suite) |
 
 ---
@@ -339,7 +339,7 @@ This repository is a categorized directory of applications covering a wide range
 
 ---
 
-## 3D Design & Visualization
+## 3D Graphics
 
 _No applications listed in this subsection._
 
