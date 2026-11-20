@@ -104,6 +104,7 @@ This repository is a categorized directory of applications covering a wide range
 | [Pix8](https://github.com/DynartInteractive/Pix8) | 🪟 · 🌐 |
 | [RetroSprite](https://github.com/Theodor908/RetroSprite) | 🪟 |
 | [OxyPixel](https://github.com/crisprintsstuff/oxypixel) | 🪟 · 🍎 · 🐧 |
+| [OniAnvil](https://rbm13s.github.io/OniAnvil/) | 🪟 · 🍎 · 🐧 · 🌐 |
 
 ---
 
