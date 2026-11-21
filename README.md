@@ -208,8 +208,6 @@ This repository is a categorized directory of applications covering a wide range
 | [Diffusion](https://app.diffusion.studio/) | 🪟 · 🍎 · 🌐 |
 | [Sprocket](https://sprocketvideo.org/) | 🪟 · 🍎 · 🐧 |
 | [WeftCut](https://github.com/WeftCut/WeftCut) | 🪟 · 🍎 · 🐧 |
-| [amber](https://github.com/baptisterajaut/amber) | 🪟 · 🍎 |
-| [Velorn](https://velorn.ai/) | 🪟 |
 | [VirtualDub](https://www.virtualdub.org/) | 🪟 |
 | [ConCat](https://concatenate.pages.dev/) | 🪟 · 🍎 · 🐧 |
 
