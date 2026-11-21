@@ -147,6 +147,7 @@ This repository is a categorized directory of applications covering a wide range
 | Application | Platforms / Notes |
 |:--|:--|
 | [AniCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
 | [StykAnimate](https://stykanimate.com/) | 🪟 · 🐧 · 🌐 |
 | [Flare](https://flare-animate.github.io/Flare/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [OpenToonz](https://opentoonz.github.io/es/index.html) | 🪟 · 🍎 · 🐧 |
@@ -159,7 +160,6 @@ This repository is a categorized directory of applications covering a wide range
 | [Enve](https://maurycyliebner.github.io/) | 🪟 · 🍎 · 🐧 |
 | [TupiTube](https://www.tupitube.com/index.php?r=custom_pages%2Fview&id=41) | 🪟 · 🍎 · 🐧 |
 | [AnimeEffects](https://animeeffectsdevs.github.io/) | 🪟 · 🍎 · 🐧 |
-| [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
 | [OpenToon](https://opentoon.org/) | 🍎 · 🐧 |
 | [Fanimate](https://github.com/toonittmedia/fanimate/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Q0idmation](https://q0id.com/) | 🪟 |
