@@ -61,7 +61,6 @@ This repository is a categorized directory of applications covering a wide range
 | [Pinta](https://www.pinta-project.com/) | 🪟 · 🍎 · 🐧 |
 | [Krita](https://krita.org/es/download/) | 🪟 · 🍎 · 🐧 |
 | [LazPaint](https://lazpaint.github.io/) | 🪟 · 🍎 · 🐧 |
-| [AzPainter](https://www.tromjaro.com/es/azpainter/) | 🐧 |
 | [Kleki](https://kleki.com/) | 🌐 |
 | [miniPaint](https://viliusle.github.io/miniPaint/) | 🌐 |
 | [Ruwa](https://accretion.pro/) | 🪟 |
