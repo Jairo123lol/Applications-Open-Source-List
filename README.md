@@ -93,7 +93,7 @@ This repository is a categorized directory of applications covering a wide range
 |:--|:--|
 | [Aseprite](https://www.aseprite.org/) | 🪟 · 🍎 · 🐧 |
 | [LibreSprite](https://libresprite.github.io/#!/) | 🪟 · 🍎 · 🐧 |
-| [GrafX2](http://grafx2.chez.com/index.php?static3/downloads) | 🪟 · 🍎 · 🐧 |
+| [GrafX2](https://grafx2.gitlab.io/grafx2/) | 🪟 · 🍎 · 🐧 |
 | [mtPaint](https://mtpaint.sourceforge.net/) | 🪟 · 🐧 |
 | [Piskel](https://www.piskelapp.com/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Pixelorama](https://pixelorama.org/) | 🪟 · 🍎 · 🐧 |
@@ -349,7 +349,7 @@ _No applications listed in this subsection._
 | [MaterialCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
 | [TextureLab](https://njbrown.itch.io/texturelab) | 🪟 · 🍎 · 🐧 |
 | [FilterJS](https://comigo.itch.io/filterjs) | 🪟 · 🐧 |
-| [NodeMangler](https://github.com/dan335/nodemangle) | 🪟 · 🍎 · 🐧 |
+| [NodeMangler](https://nodemangler.com/) | 🪟 · 🍎 · 🐧 |
 | [VFXTextureLab](https://github.com/MattyGWS/VFXTextureLab) | 🪟 |
 
 ### Painter
