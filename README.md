@@ -149,6 +149,7 @@ This repository is a categorized directory of applications covering a wide range
 | [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
 | [StykAnimate](https://stykanimate.com/) | 🪟 · 🐧 · 🌐 |
 | [Flare](https://flare-animate.github.io/Flare/) | 🪟 · 🍎 · 🐧 · 🌐 |
+| [ToonFlick](https://toonflick.com/) | 🪟 · 🍎 · 🐧 |
 | [OpenToonz](https://opentoonz.github.io/es/index.html) | 🪟 · 🍎 · 🐧 |
 | [Tahoma2D](https://tahoma2d.org/) | 🪟 · 🍎 · 🐧 |
 | [Wick Editor](https://www.wickeditor.com/#/) | 🪟 · 🍎 · 🐧 · 🌐 |
@@ -234,6 +235,7 @@ This repository is a categorized directory of applications covering a wide range
 | [Beutl](https://beutl.beditor.net/#features-audio) | 🪟 · 🍎 · 🐧 |
 | [Lumit](https://lumitlab.com) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Rash](https://ruvnet.github.io/Rash/) | 🌐 |
+| [FormVFX](ormai.studio/formvfx/) | 🪟 · 🍎 · 🐧 |
 
 ### Composting & Effects
 
