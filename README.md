@@ -111,7 +111,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [PhotoCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [PhotoCraft](https://getartcraft.com/apps/photocraft) | 🪟 · 🍎 · 🐧 |
 | [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | 🪟 · 🍎 · 🐧 |
 | [PaintFE](https://apps.microsoft.com/detail/9p51wxfxgd54?hl=nb-NO&gl=NO) | 🪟 · 🍎 · 🐧 |
 | [Pixelitor](https://pixelitor.sourceforge.io/) | 🪟 · 🍎 · 🐧 |
@@ -128,7 +128,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [LightCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [LightCraft](https://getartcraft.com/apps/lightcraft) | 🪟 · 🍎 · 🐧 |
 | [SafeLight](https://github.com/anthonyreimche/SafeLight) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [ART](https://artraweditor.github.io/) | 🪟 · 🍎 · 🐧 |
 | [RawTherapee](https://www.rawtherapee.com/) | 🪟 · 🍎 · 🐧 |
@@ -145,7 +145,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [AniCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [AniCraft](https://getartcraft.com/apps/anicraft) | 🪟 · 🍎 · 🐧 |
 | [LibreToons](https://github.com/alvillafm/LibreToon) | 🪟 · 🍎 · 🐧 |
 | [StykAnimate](https://stykanimate.com/) | 🪟 · 🐧 · 🌐 |
 | [Flare](https://flare-animate.github.io/Flare/) | 🪟 · 🍎 · 🐧 · 🌐 |
@@ -188,7 +188,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [FilmCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [FilmCraft](https://getartcraft.com/apps/filmcraft) | 🪟 · 🍎 · 🐧 |
 | [Kdenlive](https://kdenlive.org/es/) | 🪟 · 🍎 · 🐧 |
 | [OpenCut](https://opencut.app/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Shotcut](https://www.shotcut.org/) | 🪟 · 🍎 · 🐧 |
@@ -223,7 +223,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [EffectCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [EffectCraft](https://getartcraft.com/apps/effectcraft) | 🪟 · 🍎 · 🐧 |
 | [Friction](https://friction.graphics/) | 🪟 · 🍎 · 🐧 |
 | [TiXL](https://tixl.app/) | 🪟 |
 | [Cables](https://cables.gl/) | 🪟 · 🍎 · 🐧 · 🌐 |
@@ -264,7 +264,7 @@ This repository is a categorized directory of applications covering a wide range
 | Application | Platforms / Notes |
 |:--|:--|
 | [Blender](https://www.blender.org/) | 🪟 · 🍎 · 🐧 |
-| [CADCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [CADCraft](https://getartcraft.com/apps/cadcraft) | 🪟 · 🍎 · 🐧 |
 | [Bforartist](https://www.bforartists.de/) | 🪟 · 🍎 · 🐧 |
 | [Wings 3D](https://www.wings3d.com/) | 🪟 · 🍎 · 🐧 |
 | [Hew](https://app.hew3d.com/) | 🪟 · 🍎 · 🐧 · 🌐 |
@@ -294,7 +294,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [SoundCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [SoundCraft](https://getartcraft.com/apps/soundcraft) | 🪟 · 🍎 · 🐧 |
 | [Tenacity](https://tenacityaudio.org/) | 🪟 · 🐧 |
 | [Audacity](https://www.audacityteam.org/) | 🪟 · 🍎 · 🐧 |
 | [OpenDaw](https://github.com/glenwrhodes/OpenDaw) | 🪟 · 🍎 · 🐧 |
@@ -330,7 +330,7 @@ This repository is a categorized directory of applications covering a wide range
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [FigCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [FigCraft](https://getartcraft.com/apps/figcraft) | 🪟 · 🍎 · 🐧 |
 | [Penpot](https://penpot.app/) | 🪟 · 🍎 · 🐧 · 🌐 |
 | [Draftoola](https://github.com/nitramr/Draftoola) | 🐧 |
 | [Quant-UX](https://quant-ux.com/) | 🪟 · 🍎 · 🐧 · 🌐 |
@@ -348,7 +348,7 @@ _No applications listed in this subsection._
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [MaterialCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [MaterialCraft](https://getartcraft.com/apps/materialcraft) | 🪟 · 🍎 · 🐧 |
 | [TextureLab](https://njbrown.itch.io/texturelab) | 🪟 · 🍎 · 🐧 |
 | [FilterJS](https://comigo.itch.io/filterjs) | 🪟 · 🐧 |
 | [NodeMangler](https://nodemangler.com/) | 🪟 · 🍎 · 🐧 |
@@ -358,7 +358,7 @@ _No applications listed in this subsection._
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [TextureCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [TextureCraft](https://getartcraft.com/apps/texturecraft) | 🪟 · 🍎 · 🐧 |
 | [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) | Blender Add · On |
 | [ArmorPaint](https://www.3darchitettura.com/architectools/armorpaint-pbr-texturing/) | 🪟 · 🍎 · 🐧 |
 | [Material Maker](https://www.materialmaker.org) | 🪟 · 🍎 · 🐧 |
@@ -385,8 +385,8 @@ _No applications listed in this subsection._
 
 | Application | Platforms / Notes |
 |:--|:--|
+| [DesignCraft](https://getartcraft.com/apps/designcraft) | 🪟 · 🍎 · 🐧 |
 | [Paged.media](https://paged.media/) | 🌐 |
-| [DesignCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
 | [Scribus](https://www.scribus.net/) | 🪟 · 🍎 · 🐧 |
 | [Laidout](https://laidout.org/) | 🐧 |
 
@@ -409,10 +409,10 @@ _No applications listed in this subsection._
 
 | Application | Platforms / Notes |
 |:--|:--|
-| [PDFCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
-| [DeckCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
-| [WordCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
-| [GridCraft](https://getartcraft.com/apps) | 🪟 · 🍎 · 🐧 |
+| [PDFCraft](https://getartcraft.com/apps/pdfcraft) | 🪟 · 🍎 · 🐧 |
+| [DeckCraft](https://getartcraft.com/apps/deckcraft) | 🪟 · 🍎 · 🐧 |
+| [WordCraft](https://getartcraft.com/apps/wordcraft) | 🪟 · 🍎 · 🐧 |
+| [GridCraft](https://getartcraft.com/apps/gridcraft) | 🪟 · 🍎 · 🐧 |
 | [LibreOffice](https://www.libreoffice.org/) | 🪟 · 🍎 · 🐧 |
 | [ONLYOFFICE](https://www.onlyoffice.com/) | 🪟 · 🍎 · 🐧 |
 | [Collabora Office](https://www.collaboraoffice.org/) | 🪟 · 🍎 · 🐧 · 🌐 |
